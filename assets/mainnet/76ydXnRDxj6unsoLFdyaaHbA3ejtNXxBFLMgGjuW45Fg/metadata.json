@@ -1,0 +1,23 @@
+{
+  "name": "QuantumDog",
+  "symbol": "QDOG",
+  "description": "A silent prayer for a dog on the road. We don’t know where he’s going—home or doom. But in our hearts, he is remembered, always. @QuantumDog",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/kimguta/token-list/main/assets/mainnet/76ydXnRDxj6unsoLFdyaaHbA3ejtNXxBFLMgGjuW45Fg/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/kimguta/token-list/main/assets/mainnet/76ydXnRDxj6unsoLFdyaaHbA3ejtNXxBFLMgGjuW45Fg/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "76ydXnRDxj6unsoLFdyaaHbA3ejtNXxBFLMgGjuW45Fg",
+        "share": 100
+      }
+    ]
+  }
+}
